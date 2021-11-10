@@ -1,0 +1,2 @@
+# buddygroup
+SMART buddy group
